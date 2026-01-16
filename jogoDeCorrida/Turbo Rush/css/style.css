@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;         /* sem margens */
+  overflow: hidden;   /* sem scroll */
+  background: #0b6623; /* cor de grama caso a imagem do canvas não carregue */
+}
+
+canvas {
+  display: block;     /* canvas ocupa só o espaço dele */
+}
